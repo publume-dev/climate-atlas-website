@@ -1,0 +1,29 @@
+{
+  "url": "https://climate-atlas.publume.dev/",
+  "name": "Climate Atlas",
+  "description": "An evidence-led bilingual daily publication connecting climate observations with practical environmental context.",
+  "tagline": "Daily climate evidence mapped to real-world impact.",
+  "locale": "en",
+  "outputLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "defaultContentLanguage": "en",
+  "publisherName": "Publume Climate Desk",
+  "authorName": "Climate Atlas",
+  "contactUrl": "",
+  "aiDisclosure": "",
+  "socialImageUrl": "",
+  "newsletterUrl": "",
+  "sponsorUrl": "",
+  "showTopics": true,
+  "showScore": false,
+  "showSources": true,
+  "footerText": "",
+  "presentation": {
+    "schemaVersion": 1,
+    "ads": {
+      "provider": "none"
+    }
+  }
+}
